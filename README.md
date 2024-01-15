@@ -1,5 +1,7 @@
 # Crop Type Classification with VGG16 Convolutional Neural Network
 
+[GitHub Repository](https://github.com/monica-carlotti/Machine-Learning)
+
 ## Overview
 This repository contains code for a deep learning model designed to classify three crop types: maize, wheat, and rice. The model utilizes the VGG16 architecture and is trained on a dataset sourced from web scraping. The primary goal is to provide accurate crop classification, contributing to advancements in precision agriculture.
 
